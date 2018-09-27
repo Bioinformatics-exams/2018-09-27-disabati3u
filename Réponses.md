@@ -18,3 +18,13 @@ C'est un garçon, le chromosome X porteur de la maladie a donc été transmis pa
 ## Exercice 2
 Le nom de Sonic hedgehog pour le gène SHH des mammifères provient d'une allusion au personnage de jeux vidéo Sonic le hérisson.
 
+## Exercice 3
+### Q1
+NM_000492.3:c.3140-26A>G
+- NM : mRNA
+- 000492 : numéro du transcrit
+- 3 : version du transcrit
+- c.3140-26 : position génomique
+- A : référence
+- G : variant
+#### Il s'agit d'un variant en position c.3140-26 dans le transcrit NM_000492.3 du gène CFTR, qui consiste en la substitution d'une adénine par une guanine.
