@@ -45,6 +45,11 @@ Cette myotonie peut être transmise sur le mode autosomique dominant (myotonie d
 ### Q2
 La notation génomique du variant NM_000083.2:c.1401+1G>A est : NC_000007.13:g.143029967G>A.
 
-La notation génomique du variant NM_000083.2:c.1657A>T est NC_000007.13:g.143039096A>T.
+La notation génomique du variant NM_000083.2:c.1657A>T est NC_000007.13:g.143039096A>T. La notation protéique est NM_000083.2:p.Ile553Phe.
 
-La notation protéique est NM_000083.2:p.Ile553Phe.
+### Q3
+Le variant c.1401+1G>A donne un site d'épissage tandis que le variant c.1657A>T,p.Ile553Phe donne une mutation faux-sens.
+### Q4
+
+### Q5
+Cette variation a été décrite dans l'étude "A case report: autosomal recessive Myotonia congenita caused by a novel splice mutation (c.1401 + 1G > A) in CLCN1 gene of a Chinese Han patient" en septembre 2018.
