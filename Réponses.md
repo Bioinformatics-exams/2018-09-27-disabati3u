@@ -27,4 +27,16 @@ NM_000492.3:c.3140-26A>G
 - c.3140-26 : position génomique
 - A : référence
 - G : variant
-#### Il s'agit d'un variant en position c.3140-26 dans le transcrit NM_000492.3 du gène CFTR, qui consiste en la substitution d'une adénine par une guanine.
+#### Il s'agit d'un variant en position c.3140-26 dans le transcrit NM_000492.3, qui consiste en la substitution d'une adénine par une guanine.
+### Q2
+Cette variation se trouve dans le gène CFTR.
+### Q3
+La principale maladie associée est la fibrose kystique (ou mucoviscidose).
+### Q4
+Son mode de transmission est autosomique récessif.
+### Q5
+C'est dans la publication "Cystic fibrosis patients with the 3272-26A>G splicing mutation have milder disease than F508del homozygotes: a large European study" (PMID:11732487) que ce variant a-t-il été décrit pour la première fois.
+### Q6
+Selon cette publication, le phénotype des patients porteurs du variant 3272-26A>G était plus modéré que celui des patients homozygotes pour la mutation F508del : ils avaient un âge plus avancé au moment du diagnostic, une meilleure fonction pulmonaire, une incidence plus faible de colonisations par Pseudomonas aeruginosa, moins d'insuffisannce pancréatique, une plus grande taille et un meilleur IMC. En revanche l'incidence des polyposes nasales est plus élevée chez les patients 3272-26A>G
+
+## Exercice 4
