@@ -37,6 +37,14 @@ Son mode de transmission est autosomique récessif.
 ### Q5
 C'est dans la publication "Cystic fibrosis patients with the 3272-26A>G splicing mutation have milder disease than F508del homozygotes: a large European study" (PMID:11732487) que ce variant a-t-il été décrit pour la première fois.
 ### Q6
-Selon cette publication, le phénotype des patients porteurs du variant 3272-26A>G était plus modéré que celui des patients homozygotes pour la mutation F508del : ils avaient un âge plus avancé au moment du diagnostic, une meilleure fonction pulmonaire, une incidence plus faible de colonisations par Pseudomonas aeruginosa, moins d'insuffisannce pancréatique, une plus grande taille et un meilleur IMC. En revanche l'incidence des polyposes nasales est plus élevée chez les patients 3272-26A>G
+Selon cette publication, le phénotype des patients porteurs du variant 3272-26A>G était plus modéré que celui des patients homozygotes pour la mutation F508del : ils avaient un âge plus avancé au moment du diagnostic, une meilleure fonction pulmonaire, une incidence plus faible de colonisations par Pseudomonas aeruginosa, moins d'insuffisannce pancréatique, une plus grande taille et un meilleur IMC. En revanche l'incidence des polyposes nasales est plus élevée chez les patients 3272-26A>G.
 
 ## Exercice 4
+### Q1
+Cette myotonie peut être transmise sur le mode autosomique dominant (myotonie de Thomsen) ou autosomique récessif
+### Q2
+La notation génomique du variant NM_000083.2:c.1401+1G>A est : NC_000007.13:g.143029967G>A.
+
+La notation génomique du variant NM_000083.2:c.1657A>T est NC_000007.13:g.143039096A>T.
+
+La notation protéique est NM_000083.2:p.Ile553Phe.
